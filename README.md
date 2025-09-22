@@ -16,12 +16,12 @@
   <a href="https://www.linkedin.com/in/z%C3%A9lie-leydert-b05067218/">
     <img src="https://img.shields.io/badge/LinkedIn-Zélie%20Leydert-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://store.steampowered.com/app/3275440/Pluralys/">
+  <!-- <a href="https://store.steampowered.com/app/3275440/Pluralys/">
     <img src="https://img.shields.io/badge/Steam-Pluralys-171a21?logo=steam&style=for-the-badge" alt="Steam"/>
   </a>
   <a href="https://lucid-game.itch.io/lucid">
     <img src="https://img.shields.io/badge/Itch.io-Lucid-fa5c5c?logo=itch-io&style=for-the-badge" alt="Itch.io"/>
-  </a>
+  </a> -->
 </p>
 
 ---
